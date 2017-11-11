@@ -5,3 +5,4 @@ Notable files:
 - index.html
 - web.xml
 - FileUploader.java
+- pom.xml
